@@ -1,4 +1,5 @@
 from turtle import *
+title('My Doremon')
 def my_goto(x, y):
     penup()
     goto(x, y)
