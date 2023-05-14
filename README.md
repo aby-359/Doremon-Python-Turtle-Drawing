@@ -1,28 +1,32 @@
-# Doraemon Drawing
+# Doraemon Turtle
 
-This Python code creates a drawing of Doraemon using the turtle graphics module. The drawing showcases various features of Doraemon, including the face, eyes, nose, mouth, beard, scarf, and other details.
+This is a Python program that uses the Turtle module to draw a Doraemon character. It creates a graphical representation of Doraemon on the screen using various turtle graphics functions.
 
-## Prerequisites
+## Requirements
 
-To run this code, you need to have Python installed on your machine. The code uses the turtle module, which is a part of the standard Python library.
+- Python 3.x
+- Turtle module
 
-## Usage
+## Installation
 
-1. Clone or download this repository to your local machine.
-2. Open the Python script `doraemon.py` in your preferred Python IDE or editor.
-3. Run the script.
-4. Observe the turtle graphics window where the Doraemon drawing will appear.
+To run this program, follow the steps below:
 
-## Customization
+1. Make sure you have Python 3.x installed on your system.
+2. Install the Turtle module by executing the command `pip install turtle` in your command-line interface or terminal. If you're using a virtual environment, make sure it is activated before running the command.
+3. Clone this repository to your local machine using the following command:
+git clone https://github.com/your-username/doraemon-turtle.git
 
-- The code already includes a section to write the text "By aby" at the bottom right corner. You can modify this text by changing the string in the `write()` function.
-- Feel free to experiment and customize various aspects of the drawing, such as colors, sizes, and positions of different elements.
-- You can adjust the window size by modifying the `screensize()` function parameters.
+Alternatively, you can download the source code as a ZIP file and extract it.
+4. Open the Python script `doraemon_turtle.py` in a Python IDE or text editor.
+5. Run the script to execute the program. A graphical window will appear, displaying the Doraemon drawing.
+6. Customize the program by modifying the code to your preferences, such as changing colors, sizes, or adding your own elements.
 
 ## License
 
-This code is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
-Feel free to use, modify, and distribute this code according to the terms of the license.
+## Author
 
+This program is created by [Your Name](https://github.com/aby-359).
 
+Feel free to contribute to this project by submitting bug reports, feature requests, or pull requests. Enjoy drawing Doraemon with Turtle!
