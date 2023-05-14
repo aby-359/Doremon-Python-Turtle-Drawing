@@ -23,10 +23,10 @@ Alternatively, you can download the source code as a ZIP file and extract it.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://opensource.org/license/mit/).
 
 ## Author
 
-This program is created by [Your Name](https://github.com/aby-359).
+This program is created by [aby](https://github.com/aby-359).
 
 Feel free to contribute to this project by submitting bug reports, feature requests, or pull requests. Enjoy drawing Doraemon with Turtle!
